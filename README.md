@@ -1,9 +1,9 @@
 
-<!-- ![MasterHead](https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif) -->
+<!-- ![MasterHead](https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif) 
 
 <p align="center">
   <img src="https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif" alt="MasterHead">
-</p>
+</p>-->
 
 
 <h1 align="center">Hi 👋, I'm Jose Tordecilla</h1>
