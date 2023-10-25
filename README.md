@@ -1,6 +1,14 @@
+
+<!-- ![MasterHead](https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif) -->
+
+<p align="center">
+  <img src="https://media.tenor.com/ff5jAX9D-bAAAAAC/code-banner.gif" alt="MasterHead">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Jose Tordecilla</h1>
 <h3 align="center">A curious and passionated computer scientist from Colombia</h3>
-
+<img alt="coding" align="right" width="400" src="https://github.com/JoseTor101/josetor101/blob/master/programming-computer-frog.gif">
 - 🔭 I’m currently working on [Bring-U](https://github.com/JoseTor101/bring-u)
 
 - 🌱 I’m currently learning **Usage of AWS services, Videogame development, Django.**
