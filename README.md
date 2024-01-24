@@ -10,7 +10,7 @@
 <h3 align="center">A curious and passionated computer scientist from Colombia</h3>
 <img alt="coding" align="right" width="400" src="https://github.com/JoseTor101/josetor101/blob/master/programming-computer-frog.gif">
 
-- 🔭 I’m currently working on <a href="https://github.com/JoseTor101/bring-u" target="_blank">Bring-U</a>
+- 🔭 I’m currently working on <a href="https://github.com/JoseTor101/la-ruta-del-san-nicolas" target="_blank">La ruta del San Nicolás</a>
 
 - 🌱 I’m currently learning **Usage of AWS services, Videogame development, Django.**
 
