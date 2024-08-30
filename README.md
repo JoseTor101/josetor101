@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Usage of AWS services, Videogame development, Django.**
 
-- 👯 I’m looking to collaborate on [Nexos Web-Page](https://github.com/periodiconexos/SitioWebNexos)
+- 👯 I’m looking to collaborate on [Nexos Web-Page](https://github.com/sochoav1/NexosWeb)
 
 - 📫 How to reach me **josetordecilla800@gmail.com**
 
